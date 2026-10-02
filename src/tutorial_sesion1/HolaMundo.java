@@ -6,6 +6,8 @@ public class HolaMundo {
 		System.out.println("Hola CMEPPS!");
 		System.out.println("Nodo 2");
 		System.out.println("Nodo 3");
+		System.out.println("Nodo 6");
+		System.out.println("Nodo 7");		
 	}
 
 }
